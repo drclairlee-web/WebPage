@@ -5,7 +5,7 @@ body{
     padding: 0;
     background-color: #f9f9f9;
     color: #333;
-    scorll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 .container{
  max-width: 900px;
