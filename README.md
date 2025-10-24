@@ -17,4 +17,8 @@ The primary audiences for the website are current and prospective students, as w
 
 Thank you!
 
-# 
+# Client Folder
+This is where all of the front-end work will be stored (i.e. React, CSS, etc.) using Vite.
+
+# Server Folder
+This is where all of the back-end work will be stored (Express server, Node Server, Database, etc.) using Node.js.
