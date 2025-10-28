@@ -6,7 +6,11 @@ function AILabHeader() {
   return (
     <Navbar expand="lg" fixed="top" className="bg-body-tertiary" data-bs-theme="dark">
       <Container>
-        <Navbar.Brand href="#home">AI-CYREN Lab</Navbar.Brand>
+        <img alt="umass lowell logo" src="src/assets/umllogo.svg" width='100' height='100' className='d-inline-block align-start'/>{' '}
+        <Navbar.Brand href="#home">
+          
+          AI-CYREN Lab
+          </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
